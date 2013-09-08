@@ -1,0 +1,9 @@
+tripPlanner lets you plan trips together with friends.
+
+Users can save destinations in a bucket list, and when another friend wants to go they can start planning the trip together. When users search for a trip, tripPlanner will either tell them that a friend already wants to go, or let them create a new trip.
+
+If two or more friends agree on a trip, then they are taken to an interface which will let them put available dates on a calendar and manage all other aspects of the planning process:
+--Manage a check list of items to bring or things to do
+--See the attendee list
+--Comment wall with subscription options
+--Create an itinerary, and vote on places to go/things to do
